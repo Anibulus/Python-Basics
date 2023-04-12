@@ -1,0 +1,1 @@
+Es importante evitar usar datetime.now() porque toma la hora local. Mejor usar datetime.utcnow() para usar la hora universal. Nosotros trabajamos con equipos de todo el mundo, no podemos usar hora local
