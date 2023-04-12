@@ -1,4 +1,0 @@
-esquema dex
-curriculum en ingles
-llama 6 20a 25
-9 aa6 
